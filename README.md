@@ -1,0 +1,2 @@
+# isGeo
+isGeo npm package
