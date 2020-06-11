@@ -2,4 +2,4 @@ function isGeo (input) {
   return input === 'Geo'
 }
 
-module.exports = isGeo
+module.exports = isGeo;
